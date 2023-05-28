@@ -19,6 +19,14 @@ The multiple line graph was created using the object-oriented interface method a
 
 ![total_fares_line_graph](https://github.com/saraglenn/PyBer_Analysis/assets/119461431/2b356c4b-ee1a-4fd5-8f4a-bb1be94f9409)
 
+## Summary Recommendations
+
+1. Focus on rural expansion: Although urban areas have higher demand and more drivers, there is significant untapped potential in rural areas. With only 8% of the total rides compared to urban areas, there is an opportunity to increase market share by expnding services and targeting rural customers. Implement marketing campaigns and incentives to attract both riders and drivers in rural areas. 
+2. Improve driver compensation: Due to the high volume of drivers in urban areas, the average fare per driver is lower compared to suburban and rural areas. To attract and retrain quality drivers, consider impleemnting a tiered payment structure or driver incentives in urban areas to ensure drivers are fairly compensated. 
+3. Target suburban markets: Suburban areas show a relatively high demand for ridesharing services, but the number of drivers is significantly lower compared to urban areas. Invest in expanding the driver network in suburban areas to bridge the gap between demand and supply. This can hep capture a larger market share in suburban regions and increase overall profitability. 
+
+These recommendations aim to diversify the customer base, optimize driver compensation,a nd capitalize on untapped market potentialt o drive growth and profitability for the ridesharing company. 
+
 
 
 

@@ -15,3 +15,10 @@ In the following table the resmaple() function was used to parse the weeks and t
 
 ![resample](https://github.com/saraglenn/PyBer_Analysis/assets/119461431/d31f064e-15e5-494d-bd38-2156d68b1a38)
 
+The multiple line graph was created using the object-oriented interface method and the df.plot() function, as well as matplotlib. This line graph provides a visualization of the trends in total fares by city type across four months. 
+
+![total_fares_line_graph](https://github.com/saraglenn/PyBer_Analysis/assets/119461431/2b356c4b-ee1a-4fd5-8f4a-bb1be94f9409)
+
+
+
+
